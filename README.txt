@@ -1,4 +1,4 @@
-Doom 3 BFG Edition GPL Source Code
+Doom 3 BFG Edition GPL Source Code (GPL BY ID SOFTWARE)
 ==================================
 
 This file contains the following sections:
